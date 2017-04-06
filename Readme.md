@@ -92,7 +92,7 @@ var createMask = singleton(function(){
 })
 
 ```
-s
+
 ```ecmascript 6
 
 export default class singleton {
@@ -108,3 +108,8 @@ export default class singleton {
 
 
 ```
+
+### Angular 1.6
+- component has a defualt controllerAs of $ctrl
+- diasable isolate scope in component : scope:{},
+
