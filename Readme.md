@@ -113,3 +113,10 @@ export default class singleton {
 - component has a defualt controllerAs of $ctrl
 - diasable isolate scope in component : scope:{},
 
+what makes a good component?
+- Isolated
+- Focused
+- One-way Binding
+- Use Lifecycle Events
+- Well Defined API
+- Emit Events
