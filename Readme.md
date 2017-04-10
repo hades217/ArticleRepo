@@ -76,6 +76,11 @@ Agile Team Training 200
 - System.import
 - babel and webpack
 
+### Webpack & Rollup
+- Code-splitting
+- Static assets
+- use pkg.module
+
 
 ### Singleton in javascript
 
