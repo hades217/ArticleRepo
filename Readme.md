@@ -64,8 +64,21 @@ Tips Url: https://github.com/loverajoel/jstips
 
 ##
 
-###
-Agile Team Training 200
+### Es6
+
+https://leanpub.com/understandinges6/read/
+
+- TDZ(Temporal dead zone)
+- block bindings let and const
+- use const by default and only use let when you know a variable's value needs to change
+
+#### ES6 String
+- includes
+- startsWith
+- endWith
+- 'string'.repeat(3)
+
+### Agile Team Training 200
 
 
 ### Webpack 2 fetures
@@ -125,3 +138,6 @@ what makes a good component?
 - Use Lifecycle Events
 - Well Defined API
 - Emit Events
+
+### Online Chat Provider
+- LivePerson
