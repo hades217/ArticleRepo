@@ -141,5 +141,10 @@ what makes a good component?
 - Well Defined API
 - Emit Events
 
+Architecture
+- Smart & dumb components
+- Presentation % container components
+
+
 ### Online Chat Provider
 - LivePerson
