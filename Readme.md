@@ -64,7 +64,17 @@ Web Architecure
 
 Tips Url: https://github.com/loverajoel/jstips
 
-##
+### js
+```javascript
+
+emtyFunc = function() {
+    return function() {
+      
+    }
+}
+
+```
+
 
 ### Es6
 
@@ -145,6 +155,9 @@ Architecture
 - Smart & dumb components
 - Presentation % container components
 
+### Angular vs React
+
+https://www.sitepoint.com/choosing-between-react-and-angular/
 
 ### Online Chat Provider
 - LivePerson
