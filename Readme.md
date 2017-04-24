@@ -155,6 +155,10 @@ Architecture
 - Smart & dumb components
 - Presentation % container components
 
+### Angular 1 Guide
+
+https://github.com/kevinvanhove/angular-structure-styleguide
+
 ### Angular vs React
 
 https://www.sitepoint.com/choosing-between-react-and-angular/
