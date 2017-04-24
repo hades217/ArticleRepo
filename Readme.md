@@ -159,6 +159,18 @@ Architecture
 
 https://github.com/kevinvanhove/angular-structure-styleguide
 
+### Angular 1 Documenting a component
+
+```javascript
+/**
+ * @ngdoc component
+ * @name moduleName.component:videoOfBook
+ *
+ * @description <video-of-book> component, description of this component.
+ */
+
+
+```
 ### Angular vs React
 
 https://www.sitepoint.com/choosing-between-react-and-angular/
