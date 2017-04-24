@@ -155,6 +155,14 @@ Architecture
 - Smart & dumb components
 - Presentation % container components
 
+Dirctory Structure
+
+* app/[asset]/[collection]/[feature]/
+
+* app/[asset]/
+* app/[asset]/[feature]/
+* app/[asset]/[collection]/[feature]/[asset]/[feature]/
+
 ### Angular 1 Guide
 
 https://github.com/kevinvanhove/angular-structure-styleguide
