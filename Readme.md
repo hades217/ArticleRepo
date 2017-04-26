@@ -15,7 +15,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b
 https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4
 https://medium.com/conquering-corporate-america/here-are-the-top-tech-companies-secrets-to-hiring-the-best-people-33f432c39db2
-
+https://medium.com/@writerpollock/australia-the-startup-capital-of-brunch-surfing-and-frontier-tech-e0555de6ea7c
 
 ## Enhancement Request Process
 
