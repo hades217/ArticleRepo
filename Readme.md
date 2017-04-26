@@ -16,6 +16,8 @@ https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-a
 https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4
 https://medium.com/conquering-corporate-america/here-are-the-top-tech-companies-secrets-to-hiring-the-best-people-33f432c39db2
 https://medium.com/@writerpollock/australia-the-startup-capital-of-brunch-surfing-and-frontier-tech-e0555de6ea7c
+https://medium.com/@Atlanta_Lants/startup-accelerators-in-australia-95c9868c99b7
+https://medium.com/@iamwormify/a-list-of-australian-startups-that-you-should-know-about-part-1-1-25-71a0baf2c2af
 
 ## Enhancement Request Process
 
