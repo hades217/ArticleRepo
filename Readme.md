@@ -98,7 +98,18 @@ https://leanpub.com/understandinges6/read/
 - endWith
 - 'string'.repeat(3)
 
-### Agile Team Training 200
+### Agile Team Training 300
+
+##### Proposal
+
+- name: wangpai vs wangpai
+- team argument and competations
+- scrum
+- one memeber as a scrum master
+- sceniro
+- git bitbucket/ jira
+- web basics
+- ux presentation 
 
 
 ### Webpack 2 fetures
@@ -195,16 +206,30 @@ https://www.sitepoint.com/choosing-between-react-and-angular/
 - LivePerson
 
 
-### UX Presentation
+### UX Presentation - Donuts and learn
+Tools: Reveal.js
 
 - UX definition
+    - Everything user experiences, physically and mentally
 - UX examples
     - Loading animation, one by one or one sudden
+    - Both side poles on the road to naturally influence drivers
+    - UX influence factors: weather, current conditions
 - distract users
     - Loading icon
     - Facebook app, loading icon, who blames
-- bad examples 
-    - led in LA
+- bad examples - to find which things are wrong
+    - led lights in LA
+    - Ignore language specific features in different country
 - Team discussion Topics: one scenario
     - Discuss and solutions
-- Stress practice : who can get quote first
+- Stress practice : who can get quote first, aami, allianz, Suncorp
+- Solutions
+    - raw backs
+    - Steps
+        - Obeservation
+        - Generate Idea
+        - Investigation
+        - Prototyping
+        - Testing
+        - Repeat
