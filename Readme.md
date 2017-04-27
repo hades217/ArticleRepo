@@ -110,6 +110,7 @@ https://leanpub.com/understandinges6/read/
 - git bitbucket/ jira
 - web basics
 - ux presentation 
+- job introduction 
 
 
 ### Webpack 2 fetures
