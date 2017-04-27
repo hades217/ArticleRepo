@@ -193,3 +193,18 @@ https://www.sitepoint.com/choosing-between-react-and-angular/
 
 ### Online Chat Provider
 - LivePerson
+
+
+### UX Presentation
+
+- UX definition
+- UX examples
+    - Loading animation, one by one or one sudden
+- distract users
+    - Loading icon
+    - Facebook app, loading icon, who blames
+- bad examples 
+    - led in LA
+- Team discussion Topics: one scenario
+    - Discuss and solutions
+- Stress practice : who can get quote first
