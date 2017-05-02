@@ -19,6 +19,10 @@ https://medium.com/@writerpollock/australia-the-startup-capital-of-brunch-surfin
 https://medium.com/@Atlanta_Lants/startup-accelerators-in-australia-95c9868c99b7
 https://medium.com/@iamwormify/a-list-of-australian-startups-that-you-should-know-about-part-1-1-25-71a0baf2c2af
 
+### Articles
+https://dev-blog.apollodata.com/graphql-vs-falcor-4f1e9cbf7504
+https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6
+https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 ## Enhancement Request Process
 
 1. Idea
@@ -234,3 +238,4 @@ Tools: Reveal.js
         - Prototyping
         - Testing
         - Repeat
+###
