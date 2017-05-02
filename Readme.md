@@ -1,5 +1,8 @@
 # Notes
 
+preparation for IT learning course
+
+
 ```
 [].concat(vendorModules, coreModules, appModules, pageModules);
 
@@ -12,17 +15,17 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 
 ### WEChat
 
-https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b
-https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4
-https://medium.com/conquering-corporate-america/here-are-the-top-tech-companies-secrets-to-hiring-the-best-people-33f432c39db2
-https://medium.com/@writerpollock/australia-the-startup-capital-of-brunch-surfing-and-frontier-tech-e0555de6ea7c
-https://medium.com/@Atlanta_Lants/startup-accelerators-in-australia-95c9868c99b7
-https://medium.com/@iamwormify/a-list-of-australian-startups-that-you-should-know-about-part-1-1-25-71a0baf2c2af
+- https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b
+- https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4
+- https://medium.com/conquering-corporate-america/here-are-the-top-tech-companies-secrets-to-hiring-the-best-people-33f432c39db2
+- https://medium.com/@writerpollock/australia-the-startup-capital-of-brunch-surfing-and-frontier-tech-e0555de6ea7c
+- https://medium.com/@Atlanta_Lants/startup-accelerators-in-australia-95c9868c99b7
+- https://medium.com/@iamwormify/a-list-of-australian-startups-that-you-should-know-about-part-1-1-25-71a0baf2c2af
 
 ### Articles
-https://dev-blog.apollodata.com/graphql-vs-falcor-4f1e9cbf7504
-https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6
-https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+- https://dev-blog.apollodata.com/graphql-vs-falcor-4f1e9cbf7504
+- https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6
+- https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 ## Enhancement Request Process
 
 1. Idea
