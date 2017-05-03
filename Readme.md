@@ -26,6 +26,8 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://dev-blog.apollodata.com/graphql-vs-falcor-4f1e9cbf7504
 - https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6
 - https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+- https://medium.com/@message2america/thefirewall-episode1-ec4fa2790c48
+- https://medium.com/becoming-human/artificial-intelligence-is-taking-over-privacy-is-gone-d9eb131d6eca
 ## Enhancement Request Process
 
 1. Idea
