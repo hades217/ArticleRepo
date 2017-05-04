@@ -28,6 +28,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 - https://medium.com/@message2america/thefirewall-episode1-ec4fa2790c48
 - https://medium.com/becoming-human/artificial-intelligence-is-taking-over-privacy-is-gone-d9eb131d6eca
+- https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9
 ## Enhancement Request Process
 
 1. Idea
