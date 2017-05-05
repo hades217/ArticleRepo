@@ -21,6 +21,8 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.com/@writerpollock/australia-the-startup-capital-of-brunch-surfing-and-frontier-tech-e0555de6ea7c
 - https://medium.com/@Atlanta_Lants/startup-accelerators-in-australia-95c9868c99b7
 - https://medium.com/@iamwormify/a-list-of-australian-startups-that-you-should-know-about-part-1-1-25-71a0baf2c2af
+- https://medium.freecodecamp.com/we-asked-20-000-people-who-they-are-and-how-theyre-learning-to-code-fff5d668969
+
 
 ### Articles
 - https://dev-blog.apollodata.com/graphql-vs-falcor-4f1e9cbf7504
@@ -29,6 +31,8 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.com/@message2america/thefirewall-episode1-ec4fa2790c48
 - https://medium.com/becoming-human/artificial-intelligence-is-taking-over-privacy-is-gone-d9eb131d6eca
 - https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9
+
+
 ## Enhancement Request Process
 
 1. Idea
@@ -244,4 +248,7 @@ Tools: Reveal.js
         - Prototyping
         - Testing
         - Repeat
-###
+### Javascript: The Good Parts
+
+Book: Thinking fast and slow by Daniel Kahneman
+
