@@ -23,6 +23,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.com/@iamwormify/a-list-of-australian-startups-that-you-should-know-about-part-1-1-25-71a0baf2c2af
 - https://medium.freecodecamp.com/we-asked-20-000-people-who-they-are-and-how-theyre-learning-to-code-fff5d668969
 - https://uxdesign.cc/meetup-a-usability-case-study-e909c33f1e3e
+- https://medium.freecodecamp.com/seo-secrets-reverse-engineering-googles-algorithm-92fad4f5a39
 
 ### Articles
 - https://dev-blog.apollodata.com/graphql-vs-falcor-4f1e9cbf7504
@@ -32,7 +33,9 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.com/becoming-human/artificial-intelligence-is-taking-over-privacy-is-gone-d9eb131d6eca
 - https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9
 - https://uxdesign.cc/design-better-data-tables-4ecc99d23356
-
+- https://medium.freecodecamp.com/the-domain-name-system-dns-is-the-backbone-of-the-internet-heres-how-it-all-works-5706d0afa0fa
+- http://andyshora.com/unit-testing-best-practices-angularjs.html
+- https://uxplanet.org/typographical-dilemmas-the-experiment-on-positive-online-reading-experience-78e2f1897109
 ## Enhancement Request Process
 
 1. Idea
@@ -78,6 +81,20 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - jira create branch
 - bamboo
 - user story (epic)
+
+## Styling Standards
+
+#### Font
+- google.com/specimen/Nunito
+
+#### Typography
+For Reading experience 
+- Line length: 80-100 characters
+- Line height: 1.65
+- Font size: 19-20px 
+
+#### Improvement of website performance
+- https://scotch.io/bar-talk/scotchio-v7-why-another-redesign
 
 ##
 
