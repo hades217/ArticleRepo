@@ -36,8 +36,8 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.freecodecamp.com/the-domain-name-system-dns-is-the-backbone-of-the-internet-heres-how-it-all-works-5706d0afa0fa
 - http://andyshora.com/unit-testing-best-practices-angularjs.html
 - https://uxplanet.org/typographical-dilemmas-the-experiment-on-positive-online-reading-experience-78e2f1897109
--https://scotch.io/amp/tutorials/improve-the-performance-of-your-javascript-web-application
-
+- https://scotch.io/amp/tutorials/improve-the-performance-of-your-javascript-web-application
+- http://blog.brecht.io/A-scalable-angular2-architecture/
 ## Enhancement Request Process
 
 1. Idea
