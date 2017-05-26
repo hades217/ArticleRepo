@@ -24,6 +24,8 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.freecodecamp.com/we-asked-20-000-people-who-they-are-and-how-theyre-learning-to-code-fff5d668969
 - https://uxdesign.cc/meetup-a-usability-case-study-e909c33f1e3e
 - https://medium.freecodecamp.com/seo-secrets-reverse-engineering-googles-algorithm-92fad4f5a39
+- https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
+- https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2
 
 ### Articles
 - https://dev-blog.apollodata.com/graphql-vs-falcor-4f1e9cbf7504
