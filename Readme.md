@@ -40,6 +40,9 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://uxplanet.org/typographical-dilemmas-the-experiment-on-positive-online-reading-experience-78e2f1897109
 - https://scotch.io/amp/tutorials/improve-the-performance-of-your-javascript-web-application
 - http://blog.brecht.io/A-scalable-angular2-architecture/
+- https://giphy.com
+
+
 ## Enhancement Request Process
 
 1. Idea
