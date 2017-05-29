@@ -41,6 +41,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://scotch.io/amp/tutorials/improve-the-performance-of-your-javascript-web-application
 - http://blog.brecht.io/A-scalable-angular2-architecture/
 - https://giphy.com
+- https://medium.freecodecamp.com/public-speaking-transformed-my-life-and-can-change-yours-too-ca8acdbcc188
 
 
 ## Enhancement Request Process
