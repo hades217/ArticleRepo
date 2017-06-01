@@ -42,7 +42,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - http://blog.brecht.io/A-scalable-angular2-architecture/
 - https://giphy.com
 - https://medium.freecodecamp.com/public-speaking-transformed-my-life-and-can-change-yours-too-ca8acdbcc188
-
+- http://jasonwatmore.com/post/2016/08/16/angular-2-jwt-authentication-example-tutorial
 
 ## Enhancement Request Process
 
@@ -136,6 +136,9 @@ https://leanpub.com/understandinges6/read/
 - startsWith
 - endWith
 - 'string'.repeat(3)
+
+#### ECMAScript language types
+The ECMAScript language types are Undefined, Null, Boolean, String, Symbol, Number, and Object.
 
 ### Agile Team Training 300
 
