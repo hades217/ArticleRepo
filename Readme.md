@@ -44,6 +44,14 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.freecodecamp.com/public-speaking-transformed-my-life-and-can-change-yours-too-ca8acdbcc188
 - http://jasonwatmore.com/post/2016/08/16/angular-2-jwt-authentication-example-tutorial
 
+
+### Nodebb ducoments
+https://nodebb.readthedocs.io/en/latest/running/index.html
+
+### Tutorial Reference
+- http://v.youku.com/v_show/id_XMjUwMjYyNTA5Ng==.html
+
+
 ## Enhancement Request Process
 
 1. Idea
@@ -280,3 +288,7 @@ Tools: Reveal.js
 
 Book: Thinking fast and slow by Daniel Kahneman
 
+
+### Training
+
+1. nvm
