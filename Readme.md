@@ -292,3 +292,6 @@ Book: Thinking fast and slow by Daniel Kahneman
 ### Training
 
 1. nvm
+
+### Jobs 
+- glassdoor
