@@ -44,6 +44,11 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.freecodecamp.com/public-speaking-transformed-my-life-and-can-change-yours-too-ca8acdbcc188
 - http://jasonwatmore.com/post/2016/08/16/angular-2-jwt-authentication-example-tutorial
 - https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017
+- https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components
+- https://dmitriid.com/ 
+- https://dmitriid.com/blog/2016/10/javascript-tools/
+- http://stateofjs.com/2016/opinions/
+- http://codylindley.com/
 
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
