@@ -49,6 +49,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://dmitriid.com/blog/2016/10/javascript-tools/
 - http://stateofjs.com/2016/opinions/
 - http://codylindley.com/
+- http://blog.builtinnode.com/post/node-js-will-overtake-java-within-a-year-analysis
 
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
