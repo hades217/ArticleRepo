@@ -51,6 +51,8 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - http://codylindley.com/
 - http://blog.builtinnode.com/post/node-js-will-overtake-java-within-a-year-analysis
 
+-https://github.com/pluralsight/pluralsight-author-contrib/wiki
+
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
 
