@@ -54,7 +54,8 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://github.com/pluralsight/pluralsight-author-contrib/wiki
 - https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66
 - https://hackernoon.com/top-6-open-source-projects-in-2017-db34b9d034a2
-
+- https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f
+- https://hackernoon.com/blockchain-for-non-techies-3-smart-contracts-104f77277297
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
 
