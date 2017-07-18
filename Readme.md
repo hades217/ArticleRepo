@@ -52,6 +52,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - http://blog.builtinnode.com/post/node-js-will-overtake-java-within-a-year-analysis
 
 -https://github.com/pluralsight/pluralsight-author-contrib/wiki
+-https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66
 
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
