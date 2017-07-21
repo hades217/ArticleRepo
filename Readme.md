@@ -26,6 +26,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.freecodecamp.com/seo-secrets-reverse-engineering-googles-algorithm-92fad4f5a39
 - https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
 - https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2
+- https://medium.freecodecamp.org/a-massive-list-of-free-online-course-providers-from-around-the-world-925766226f46
 
 ### Articles
 - https://dev-blog.apollodata.com/graphql-vs-falcor-4f1e9cbf7504
@@ -56,6 +57,8 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://hackernoon.com/top-6-open-source-projects-in-2017-db34b9d034a2
 - https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f
 - https://hackernoon.com/blockchain-for-non-techies-3-smart-contracts-104f77277297
+- https://www.class-central.com/mooc/335/coursera-internet-history-technology-and-security
+- https://medium.freecodecamp.org/460-free-online-programming-computer-science-courses-you-can-start-in-july-ea767bb22092
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
 
