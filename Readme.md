@@ -60,6 +60,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://www.class-central.com/mooc/335/coursera-internet-history-technology-and-security
 - https://medium.freecodecamp.org/460-free-online-programming-computer-science-courses-you-can-start-in-july-ea767bb22092
 - https://nycda.com/courses/web-development-100
+- https://nycda.com/courses/web-development-intensive-part-time
 
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
