@@ -62,6 +62,8 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://nycda.com/courses/web-development-100
 - https://nycda.com/courses/web-development-intensive-part-time
 - https://enlight.ml/ Enlight open online courses
+- https://vi.microsoft.com/
+- https://www.fullstory.com
 
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
