@@ -61,6 +61,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.freecodecamp.org/460-free-online-programming-computer-science-courses-you-can-start-in-july-ea767bb22092
 - https://nycda.com/courses/web-development-100
 - https://nycda.com/courses/web-development-intensive-part-time
+- https://enlight.ml/ Enlight open online courses
 
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
