@@ -32,6 +32,39 @@ Moral of the story, just add `<!DOCTYPE html>` to the start of your page.
 - https://stackoverflow.com/questions/7695044/what-does-doctype-html-do
 - https://www.w3.org/QA/Tips/Doctype
 
+#### Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
+
+All the above mentioned technologies are key-value storage mechanisms on the client side. They are only able to store values as strings.
+
+|  |`cookie`|`localStorage`|`sessionStorage`|
+|--|--|--|--|
+| Initiator | Client or server. Server can use `Set-Cookie` header | Client | Client |
+| Expiry | Manually set | Forever | On tab close |
+| Persistent across browser sessions | Depends on whether expiration is set | Yes | No |
+| Have domain associated | Yes | No | No |
+| Sent to server with every HTTP request| Cookies are automatically being sent via `Cookie` header | No | No |
+| Capacity (per domain) | 4kb | 5MB | 5MB |
+| Accessibility | Any window | Any window | Same tab |
+
+###### References
+
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+- http://tutorial.techaltum.com/local-and-session-storage.html
+
+#### Describe the difference between `<script>`, `<script async>` and `<script defer>`.
+
+- `<script>` - HTML parsing is blocked, the script is fetched and executed immediately, HTML parsing resumes after the script is executed.
+- `<script async>` - The script will be fetched in parallel to HTML parsing and executed as soon as it is available (potentially before HTML parsing completes). Use `async` when the script is independent of any other scripts on the page, for example analytics.
+- `<script defer>` - The script will be fetched in parallel to HTML parsing and executed when the page has finished parsing. If there are multiple of them, each deferred script is executed in the order they were encoun­tered in the document. If a script relies on a fully-parsed DOM, the `defer` attribute will be useful in ensuring that the HTML is fully parsed before executing. There's not much difference from putting a normal `<script>` at the end of `<body>`. A deferred script must not contain `document.write`.
+
+Note: The `async` and `defer` attrib­utes are ignored for scripts that have no `src` attribute.
+
+###### References
+
+- http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html
+- https://stackoverflow.com/questions/10808109/script-tag-async-defer
+- https://bitsofco.de/async-vs-defer/
+
 #### What's the difference between full standards mode, almost standards mode and quirks mode?
 
 - **Quirks mode** - Layout emulates non-standard behavior in Netscape Navigator 4 and Internet Explorer 5. This is essential in order to support websites that were built before the widespread adoption of web standards. The list of quirks can be found [here](https://developer.mozilla.org/en-US/docs/Mozilla/Mozilla_quirks_mode_behavior).
@@ -106,38 +139,7 @@ These days, using `data-` attributes is not encouraged. One reason is that users
 
 - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
-#### Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
 
-All the above mentioned technologies are key-value storage mechanisms on the client side. They are only able to store values as strings.
-
-|  |`cookie`|`localStorage`|`sessionStorage`|
-|--|--|--|--|
-| Initiator | Client or server. Server can use `Set-Cookie` header | Client | Client |
-| Expiry | Manually set | Forever | On tab close |
-| Persistent across browser sessions | Depends on whether expiration is set | Yes | No |
-| Have domain associated | Yes | No | No |
-| Sent to server with every HTTP request| Cookies are automatically being sent via `Cookie` header | No | No |
-| Capacity (per domain) | 4kb | 5MB | 5MB |
-| Accessibility | Any window | Any window | Same tab |
-
-###### References
-
-- https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
-- http://tutorial.techaltum.com/local-and-session-storage.html
-
-#### Describe the difference between `<script>`, `<script async>` and `<script defer>`.
-
-- `<script>` - HTML parsing is blocked, the script is fetched and executed immediately, HTML parsing resumes after the script is executed.
-- `<script async>` - The script will be fetched in parallel to HTML parsing and executed as soon as it is available (potentially before HTML parsing completes). Use `async` when the script is independent of any other scripts on the page, for example analytics.
-- `<script defer>` - The script will be fetched in parallel to HTML parsing and executed when the page has finished parsing. If there are multiple of them, each deferred script is executed in the order they were encoun­tered in the document. If a script relies on a fully-parsed DOM, the `defer` attribute will be useful in ensuring that the HTML is fully parsed before executing. There's not much difference from putting a normal `<script>` at the end of `<body>`. A deferred script must not contain `document.write`.
-
-Note: The `async` and `defer` attrib­utes are ignored for scripts that have no `src` attribute.
-
-###### References
-
-- http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html
-- https://stackoverflow.com/questions/10808109/script-tag-async-defer
-- https://bitsofco.de/async-vs-defer/
 
 #### Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
 
