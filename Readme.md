@@ -64,7 +64,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://enlight.ml/ Enlight open online courses
 - https://vi.microsoft.com/
 - https://www.fullstory.com
-
+- https://auth0.com/blog/a-brief-history-of-javascript/
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
 
