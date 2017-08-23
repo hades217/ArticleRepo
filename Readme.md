@@ -27,7 +27,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
 - https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2
 - https://medium.freecodecamp.org/a-massive-list-of-free-online-course-providers-from-around-the-world-925766226f46
-
+- https://medium.freecodecamp.org/building-your-personal-brand-as-a-new-web-developer-f6d4150fd217
 ### Articles
 - https://dev-blog.apollodata.com/graphql-vs-falcor-4f1e9cbf7504
 - https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6
@@ -65,6 +65,9 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://vi.microsoft.com/
 - https://www.fullstory.com
 - https://auth0.com/blog/a-brief-history-of-javascript/
+- https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
+- https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
+
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
 
