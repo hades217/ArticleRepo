@@ -1,0 +1,28 @@
+%sprite-{{sprite.name}},
+.sprite-{{sprite.name}} {
+	display: block;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-image: url('../images/{{sprite.image}}');
+
+	width: calc(100% - 1px);
+	height: 0;
+
+{{#each sprites}}
+
+	&--{{@key}} {
+		padding-bottom: percentage(
+			(100 / ({{this.width}} / {{this.height}})) / 100
+		);
+
+		background-size:
+			(percentage({{../sprite.width}}px / {{this.width}}px))
+			calc(#{(percentage({{../sprite.height}}px / {{this.height}}px))});
+
+		background-position:
+			(percentage({{this.x}}px / ({{../sprite.width}}px - {{this.width}}px)))
+			(percentage({{this.y}}px / ({{../sprite.height}}px - {{this.height}}px)));
+	}
+
+{{/each}}
+}
