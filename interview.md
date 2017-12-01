@@ -1148,3 +1148,8 @@ var foo = function() {
 ## Fun Questions:
 
 * What's a cool project that you've recently worked on?
+
+## Single Page Application
+
+- Isomorphic Javascript
+- https://en.wikipedia.org/wiki/Isomorphic_JavaScript
