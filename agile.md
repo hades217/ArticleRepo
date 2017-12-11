@@ -1,4 +1,7 @@
+### Agile
 
+* Agile is a set of principles.
+* Agile is not a distinct process or methodology
 ### Git branching model
 
 This repo branching model is inspired by Git Flow. Currently we have these types of branches:
@@ -21,5 +24,29 @@ Read the Git [Flow reference](http://nvie.com/posts/a-successful-git-branching-m
 * Installation
 * Maintenance
 
+### Lean software development
 
+* it is created by Toyoto
+
+### Feature Driven Development
+
+* Develop Overall Model
+* Build Freature List action/result/object
+* Plan by freature
+* Design by Freature
+* Build by feature
+
+* Domain Walkthrough
+* Design
+* Design inspection
+* Code
+* Code inspection
+* Promote to Build
+
+### Requirement
+
+### User Story
+
+As a XX, I Want to XX so that XX
+Given XXX , when XX , then XXX
 
