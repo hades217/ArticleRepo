@@ -319,3 +319,8 @@ Book: Thinking fast and slow by Daniel Kahneman
 
 ### Jobs 
 - glassdoor
+
+### M
+- $1000 py
+- 10% off
+- 

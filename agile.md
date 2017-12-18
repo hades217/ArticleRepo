@@ -50,3 +50,12 @@ Read the Git [Flow reference](http://nvie.com/posts/a-successful-git-branching-m
 As a XX, I Want to XX so that XX
 Given XXX , when XX , then XXX
 
+### Planning Poker
+
+Planning Poker cards. 
+These particular poker planning deck starts with zero, moves through the fibonacci sequence and then into 20, 40, 100 for very high level estimates.
+
+Why?
+
+It emphasizes relative sizing, uses numbers and a numbering system that increase with an order of magnitude, and as we'll see, everyone gets to be hurt regardless of whether you are the expert on the team, the system or the most junior intern.
+
