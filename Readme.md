@@ -69,12 +69,21 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
 - https://medium.com/microsoft-design/from-3d-to-2d-and-back-again-479906df6b47
 - https://medium.com/@tahmaseb/after-50-years-is-it-time-to-say-goodbye-to-the-keyboard-e0d6e6709211
+
+### 2018
+- https://codeburst.io/top-3-technology-trends-for-2018-which-will-be-a-game-changer-719de6e71a72
+- https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c
+- 
+
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
 
 ### Tutorial Reference
 - http://v.youku.com/v_show/id_XMjUwMjYyNTA5Ng==.html
 
+### Design
+- https://medium.muz.li/dashboard-inspiration-2017-504b37887f34
+- https://blog.prototypr.io/the-most-promising-design-tools-you-should-try-in-2017-2e5d34b16261
 
 ## Enhancement Request Process
 
@@ -324,3 +333,6 @@ Book: Thinking fast and slow by Daniel Kahneman
 - $1000 py
 - 10% off
 - 
+
+
+
