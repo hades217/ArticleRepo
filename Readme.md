@@ -84,6 +84,7 @@ https://nodebb.readthedocs.io/en/latest/running/index.html
 ### Design
 - https://medium.muz.li/dashboard-inspiration-2017-504b37887f34
 - https://blog.prototypr.io/the-most-promising-design-tools-you-should-try-in-2017-2e5d34b16261
+- https://www.algolia.com/pricing#add-ons
 
 ## Enhancement Request Process
 
