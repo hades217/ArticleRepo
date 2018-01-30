@@ -69,11 +69,15 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
 - https://medium.com/microsoft-design/from-3d-to-2d-and-back-again-479906df6b47
 - https://medium.com/@tahmaseb/after-50-years-is-it-time-to-say-goodbye-to-the-keyboard-e0d6e6709211
+- https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849
 
 ### 2018
 - https://codeburst.io/top-3-technology-trends-for-2018-which-will-be-a-game-changer-719de6e71a72
 - https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c
-- 
+- https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849
+
+### design
+- https://gradients.cssgears.com/?&utm_source=prototypr_newsletter&utm_medium=email&utm_campaign=typography_on_the_subway_mapbreaking_and_how_to_make_a_dot&utm_term=2018-01-08
 
 ### Nodebb ducoments
 https://nodebb.readthedocs.io/en/latest/running/index.html
@@ -85,7 +89,7 @@ https://nodebb.readthedocs.io/en/latest/running/index.html
 - https://medium.muz.li/dashboard-inspiration-2017-504b37887f34
 - https://blog.prototypr.io/the-most-promising-design-tools-you-should-try-in-2017-2e5d34b16261
 - https://www.algolia.com/pricing#add-ons
-
+- https://www.sitepoint.com/creative-ui-design-ideas-you-can-use-in-your-next-website/
 ## Enhancement Request Process
 
 1. Idea
