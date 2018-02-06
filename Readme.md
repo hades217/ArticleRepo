@@ -70,6 +70,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://medium.com/microsoft-design/from-3d-to-2d-and-back-again-479906df6b47
 - https://medium.com/@tahmaseb/after-50-years-is-it-time-to-say-goodbye-to-the-keyboard-e0d6e6709211
 - https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849
+- https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784
 
 ### 2018
 - https://codeburst.io/top-3-technology-trends-for-2018-which-will-be-a-game-changer-719de6e71a72
@@ -338,6 +339,10 @@ Book: Thinking fast and slow by Daniel Kahneman
 - $1000 py
 - 10% off
 - 
+
+### SEO
+- Ubersuggest
+- mergewords
 
 
 
