@@ -76,6 +76,7 @@ https://www.freecodecamp.com/map#nested-collapseBasicJavaScript
 - https://codeburst.io/top-3-technology-trends-for-2018-which-will-be-a-game-changer-719de6e71a72
 - https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c
 - https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849
+- https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d?source=placement_card_footer_grid---------1-43
 
 ### design
 - https://gradients.cssgears.com/?&utm_source=prototypr_newsletter&utm_medium=email&utm_campaign=typography_on_the_subway_mapbreaking_and_how_to_make_a_dot&utm_term=2018-01-08
